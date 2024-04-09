@@ -60,3 +60,65 @@
  
 
 }
+#bigtitle{
+    font-size:40px;
+    font-family:Blippo,fantasy;
+    color:rgb(61, 61, 61);
+    background-color:rgb(90, 133, 171);
+    text-align:center;
+    
+}
+.titlepage{
+    font-size:20px;
+    font-family:Luminari,fantasy;
+    color:rgb(243, 247, 243);
+    background-color:#babec4
+}
+.button1{
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+    background-color:rgb(39, 39, 90);
+    color:aliceblue;
+    font-size:20px;
+    border-radius:8px;
+    width:150px;
+    transition-duration: 0.4s;
+}
+.button1:hover{
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    border-radius:8px;
+    width:150px;
+    transition-duration: 0.4s;  
+}
+
+.button2{
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+    background-color:rgb(144, 166, 167);
+    color:aliceblue;
+    font-size:20px;
+    border-radius:8px;
+    width:150px;
+    transition-duration: 0.4s;
+    font-family:FreeMono,monospace;
+}
+
+.button2:hover{
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-size:20px;
+    border-radius:8px;
+    width:150px;
+    transition-duration: 0.4s; 
+    font-family:FreeMono,monospace; 
+}
